@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043980633914",
+    "project_id": "tutys-fin-project",
+    "storage_bucket": "tutys-fin-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043980633914:android:58647d511cfdcdcd81b203",
+        "android_client_info": {
+          "package_name": "com.tutys.tutysfinancas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvWcy1nMWUcZpLTguPYV2LSzaPDmxMy_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
