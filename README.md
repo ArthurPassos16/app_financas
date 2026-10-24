@@ -6,13 +6,11 @@
 
 App em Flutter para registrar receitas e despesas e acompanhar para onde o dinheiro vai no mês. Os dados ficam no Firebase e sincronizam entre dispositivos, com funcionamento offline.
 
-<!-- Adicione aqui screenshots ou um GIF do app:
 <p align="center">
   <img src="docs/dashboard.png" width="240" />
   <img src="docs/transacoes.png" width="240" />
   <img src="docs/orcamentos.png" width="240" />
 </p>
--->
 
 ## Funcionalidades
 
