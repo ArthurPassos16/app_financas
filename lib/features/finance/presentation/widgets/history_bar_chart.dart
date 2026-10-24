@@ -64,8 +64,9 @@ class HistoryBarChart extends StatelessWidget {
                     reservedSize: 28,
                     getTitlesWidget: (value, meta) {
                       final i = value.toInt();
-                      if (i < 0 || i >= history.length)
+                      if (i < 0 || i >= history.length) {
                         return const SizedBox.shrink();
+                      }
                       return Padding(
                         padding: const EdgeInsets.only(top: 6),
                         child: Text(
